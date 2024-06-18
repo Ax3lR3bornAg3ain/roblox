@@ -6,6 +6,8 @@ function sendMessage() {
         description: content,
     };
 
+    // alr skid spamming my hook add me on discord my username is networkcatwork
+
     const payload = {
         embeds: [embed],
     };
